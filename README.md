@@ -1,8 +1,9 @@
-## Hi there 👋
-I'M Jeet, a software engineer based in India.
-I mostly work on frontend stuff - React,  Redux, Tailwind, and a bit of animation with GSAP.
-=
-## Tools & Tech 
-• React,Tailwind
-• Git, Github, VS-Code
-=
+## Hi there 👋  
+I'm **Jeet**, a software engineer based in **India 🇮🇳**.
+
+I enjoy building modern, responsive web applications with a strong focus on UI/UX and performance.
+
+## 🚀 Tech Stack  
+- React • Redux • Tailwind CSS  
+- Git • GitHub • VS Code  
+- GSAP (animations)
