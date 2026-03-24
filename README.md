@@ -3,7 +3,7 @@ I'm **Jeet**, a software engineer based in **India 🇮🇳**.
 
 I enjoy building modern, responsive web applications with a strong focus on UI/UX and performance.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jeet-827&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-827" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeet-827" alt="jeet-827" /></a> </p>
 
