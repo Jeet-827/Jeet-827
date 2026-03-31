@@ -13,9 +13,12 @@ I mostly work on frontend shuff - React, ReactNative, Tailwind, and a bit of ani
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeet-827&show_icons=true&locale=en&layout=compact" alt="jeet-827" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet-827&show_icons=true&locale=en" alt="Jeet-827" /></p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jeet-827&theme=default)
+
+---
+
+⭐️ From [Jeet-827](https://github.com/Jeet-827)
