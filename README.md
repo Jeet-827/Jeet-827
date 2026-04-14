@@ -5,7 +5,7 @@ I enjoy building modern, responsive web applications with a strong focus on UI/U
 I mostly work on frontend shuff - React, ReactNative, Tailwind, and a bit of animation with GSAP.
 
 # 💫 About Me:
-<br>I’m looking to collaborate on Mern Stack Project<br>I’m looking for help with Node And express<br>
+<br>I’m looking to collaborate on Mern Stack Project<br><br>
 
 
 ## 🌐 Socials:
