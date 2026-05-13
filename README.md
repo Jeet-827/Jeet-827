@@ -1,11 +1,21 @@
-## Hi there 
+## Hi there 👋  
 I'm **Jeet**, a software engineer based in **India 🇮🇳**.
 
-I enjoy building modern, responsive web applications with a strong focus on UI/UX and performance.
-I mostly work on frontend shuff - React, ReactNative, Tailwind, and a bit of animation with GSAP.
+I enjoy building modern, responsive web applications with a strong focus on UI/UX and performance.  
+I mostly work on frontend stuff — React, React Native, Tailwind CSS, and smooth animations with GSAP.
+
+---
 
 # 💫 About Me:
-<br>I’m looking to collaborate on Mern Stack Project<br><br>
+
+- 🚀 Currently exploring the **MERN Stack**
+- 💻 Passionate about creating clean and interactive UI
+- 📱 Building responsive web & mobile applications
+- 🌱 Learning backend architecture and scalable apps
+- 🤝 Looking to collaborate on **MERN Stack Projects**
+- ⚡ Fun fact: I love turning ideas into real products
+
+---
 
 ## 💻 Tech Stack & Expertise
 
@@ -38,9 +48,15 @@ I mostly work on frontend shuff - React, ReactNative, Tailwind, and a bit of ani
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bg3Tw8CmSr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranpariya-jeet-6965a42a6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JRnapriya10523) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranpariyajeet27@gmail.com) 
+---
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bg3Tw8CmSr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranpariya-jeet-6965a42a6/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JRnapriya10523)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranpariyajeet27@gmail.com)
+
+---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Jeet-827&theme=default)
