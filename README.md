@@ -20,7 +20,6 @@ I mostly work on frontend stuff — React, React Native, Tailwind CSS, and smoot
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ant Design](https://img.shields.io/badge/ant_design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ---
 
