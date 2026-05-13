@@ -6,13 +6,7 @@ I mostly work on frontend stuff — React, React Native, Tailwind CSS, and smoot
 
 ---
 # 💫 About Me:
-- 🚀 Currently exploring the **MERN Stack**
-- 💻 Passionate about creating clean and interactive UI
-- 📱 Building responsive web & mobile applications
-- 🌱 Learning backend architecture and scalable apps
-- 🤝 Looking to collaborate on **MERN Stack Projects**
-- ⚡ Fun fact: I love turning ideas into real products
----
+
 <p align="center">
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="450"/>
 </p>
